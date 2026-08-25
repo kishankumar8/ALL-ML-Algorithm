@@ -2,7 +2,6 @@
 
 This repository is only for my learning purpose .
 
-# categorical
 
 # regression
 
