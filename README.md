@@ -3,7 +3,6 @@
 This repository is only for my learning purpose .
 
 
-# regression
 
 # 🤖 Machine Learning Algorithms Guide
 
