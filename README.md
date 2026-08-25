@@ -2,6 +2,10 @@
 
 This repository is only for my learning purpose .
 
+# categorical
+
+# regression
+
 # 🤖 Machine Learning Algorithms Guide
 
 A simple beginner-friendly guide to understand **Supervised and Unsupervised Machine Learning algorithms**, what they do, and **when to use them**.
