@@ -3,6 +3,98 @@
 This repository is only for my learning purpose .
 
 
+Haan, simple way me yaad rakho 👇
+
+## 🔵 Supervised Learning Algorithms
+
+Supervised learning me **target/output column hota hai**.
+
+### Classification
+
+Jab output **category** ho:
+
+1. **Logistic Regression**
+2. **K-Nearest Neighbors (KNN)**
+3. **Decision Tree Classifier**
+4. **Random Forest Classifier**
+5. **Support Vector Machine (SVM)**
+6. **Naive Bayes**
+7. **Gradient Boosting**
+8. **AdaBoost**
+9. **XGBoost**
+10. **LightGBM**
+11. **CatBoost**
+
+**Example:**
+`Spam / Not Spam`, `Pass / Fail`, `Survived / Not Survived`
+
+### Regression
+
+Jab output **number** ho:
+
+1. **Linear Regression**
+2. **Multiple Linear Regression**
+3. **Polynomial Regression**
+4. **Decision Tree Regressor**
+5. **Random Forest Regressor**
+6. **Support Vector Regression (SVR)**
+7. **Gradient Boosting Regressor**
+8. **Random Forest Regressor**
+9. **XGBoost Regressor**
+10. **LightGBM Regressor**
+11. **CatBoost Regressor**
+
+**Example:**
+`House Price`, `Salary`, `Sales`, `Temperature`
+
+---
+
+# 🟢 Unsupervised Learning Algorithms
+
+Unsupervised learning me **target/output column nahi hota**.
+
+### Clustering
+
+1. **K-Means Clustering**
+2. **Hierarchical Clustering**
+3. **DBSCAN**
+4. **Mean Shift**
+5. **Gaussian Mixture Model (GMM)**
+
+**Example:** Customer ko different groups me divide karna.
+
+### Dimensionality Reduction
+
+1. **PCA (Principal Component Analysis)**
+2. **LDA** *(Dimensionality reduction ke context me; supervised technique hai, so strictly unsupervised nahi)*
+3. **t-SNE**
+4. **UMAP**
+5. **Truncated SVD**
+
+**Example:** 100 features ko reduce karke 10 important dimensions banana.
+
+---
+
+## 🧠 Sabse easy trick
+
+```text
+                 MACHINE LEARNING
+                       |
+             ┌─────────┴─────────┐
+             ↓                   ↓
+       SUPERVISED          UNSUPERVISED
+             |                   |
+       ┌─────┴─────┐       ┌─────┴─────────┐
+       ↓           ↓       ↓               ↓
+ Classification Regression Clustering   Dimensionality
+                                          Reduction
+```
+
+**Interview ke liye sabse important:**
+**Supervised:** Linear Regression, Logistic Regression, KNN, Decision Tree, Random Forest, SVM, Naive Bayes, XGBoost.
+
+**Unsupervised:** K-Means, Hierarchical Clustering, DBSCAN, PCA.
+
 
 # 🤖 Machine Learning Algorithms Guide
 
