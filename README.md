@@ -656,4 +656,4 @@ This repository is created as a **beginner-friendly Machine Learning reference**
 
 B.Tech — Artificial Intelligence & Data Science
 
-Learning Machine Learning, Data Science and
+Learning Machine Learning, Data Science 
