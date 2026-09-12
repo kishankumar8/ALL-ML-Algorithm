@@ -3,7 +3,7 @@
 This repository is only for my learning purpose .
 
 
-Haan, simple way me yaad rakho 👇
+Haan, simple way me yaad rakho
 
 ## 🔵 Supervised Learning Algorithms
 
