@@ -3,7 +3,7 @@
 This repository is only for my learning purpose .
 
 
-Haan, simple way me y
+Haan, simple way m
 ## 🔵 Supervised Learning Algorithms
 
 Supervised learning me **target/output column hota hai**.
