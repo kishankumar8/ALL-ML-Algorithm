@@ -652,5 +652,5 @@ This repository is created as a **beginner-friendly Machine Learning reference**
 
 **Kishan Kumar**
 
-B.Tech — Artificial Intelligence & Data S
+B.Tech — Artificial Intelligence & Data
 
