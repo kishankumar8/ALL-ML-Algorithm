@@ -651,4 +651,3 @@ This repository is created as a **beginner-friendly Machine Learning reference**
 ## 👨‍💻 Author
 
 **Kishan Kumar
-B
