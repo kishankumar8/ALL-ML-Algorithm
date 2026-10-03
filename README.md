@@ -5,7 +5,7 @@ This repository is only for my learning purpose .
 
 ## 🔵 Supervised Learning Algorithms
 
-Supervised learning me **target/output column hota hai**.
+Supervised learning = **target/output column hota hai**.
 
 ### Classification
 
