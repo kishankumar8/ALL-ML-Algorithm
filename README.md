@@ -1,6 +1,6 @@
 # ALL-ML-Algorithm .
 
-This repository is only for my learning purpose .
+This repository is only for learning purpose .
 
 
 ## 🔵 Supervised Learning Algorithms
