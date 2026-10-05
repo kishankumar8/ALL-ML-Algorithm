@@ -510,6 +510,7 @@ Use PCA when:
 
 100 features → PCA → 10 important components
 
+
 ---
 
 # 📊 Quick Algorithm Selection Guide
